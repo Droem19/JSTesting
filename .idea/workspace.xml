@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5107483d-ff4f-4ea6-88a7-2c75ebd163b5" name="Default Changelist" comment="Modification 2">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML1.html" afterDir="false" />
+    <list default="true" id="5107483d-ff4f-4ea6-88a7-2c75ebd163b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Day0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day0HTML.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice1.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +26,16 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Droem19/JSPractice.git" />
+        <option value="https://github.com/Droem19/JSTesting.git" />
+      </set>
+    </option>
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -34,7 +45,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1ViUlIo0SAgcey4TD1K5070X5YD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -47,12 +60,16 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../JSTesting" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.Day0HTML.html">
+    <configuration name="Day0HTML.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSPractice/Day0HTML.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="HTML1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSPractice/HTML1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Day0HTML.html" />
         <item itemvalue="JavaScript Debug.HTML1.html" />
       </list>
     </recent_temporary>
@@ -79,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577735558577</updated>
-      <workItem from="1577735568417" duration="1950000" />
+      <workItem from="1577735568417" duration="3471000" />
     </task>
     <task id="LOCAL-00001" summary="1st Test Commit">
       <created>1577736475556</created>
@@ -95,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577736861745</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Modification 2">
+      <created>1577737582753</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577737582753</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,10 +154,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577735752542" />
-    <state x="535" y="147" width="1039" height="806" key="CommitChangelistDialog2" timestamp="1577737367046">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577739439875">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="535" y="147" width="1039" height="806" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577737367046" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577739439875" />
+    <state x="535" y="147" width="1039" height="806" key="CommitChangelistDialog2" timestamp="1577739638733">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="535" y="147" width="1039" height="806" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577739638733" />
     <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1577737445471">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -142,10 +170,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="838" y="414" width="901" height="212" key="Github.ShareDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577737469593" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1577737104598">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1577737590275">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577737104598" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577737590275" />
     <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577737294635">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
