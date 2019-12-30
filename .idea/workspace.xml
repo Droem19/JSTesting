@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5107483d-ff4f-4ea6-88a7-2c75ebd163b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day0HTML.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day0.js" beforeDir="false" afterPath="$PROJECT_DIR$/Day0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day0HTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day0HTML.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577735558577</updated>
-      <workItem from="1577735568417" duration="3471000" />
+      <workItem from="1577735568417" duration="3771000" />
     </task>
     <task id="LOCAL-00001" summary="1st Test Commit">
       <created>1577736475556</created>
@@ -119,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577737582753</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Setup for Day 0">
+      <created>1577739643632</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577739643632</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,7 +144,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st Test Commit" />
     <MESSAGE value="Modification 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modification 2" />
+    <MESSAGE value="Setup for Day 0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Setup for Day 0" />
   </component>
   <component name="WindowStateProjectService">
     <state x="646" y="209" key="#Deployment" timestamp="1577736191431">
@@ -158,10 +164,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577739439875" />
-    <state x="535" y="147" width="1039" height="806" key="CommitChangelistDialog2" timestamp="1577739638733">
+    <state x="535" y="147" width="1039" height="806" key="CommitChangelistDialog2" timestamp="1577739930585">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="535" y="147" width="1039" height="806" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577739638733" />
+    <state x="535" y="147" width="1039" height="806" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577739930585" />
     <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1577737445471">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -170,10 +176,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="838" y="414" width="901" height="212" key="Github.ShareDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577737469593" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1577737590275">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1577739669837">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577737590275" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577739669837" />
     <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577737294635">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -10,3 +10,21 @@ function greeting()
 {
     document.write("Hello, World!");
 }
+
+//Basic Operator Functions
+function add(x,y)
+{
+    return x+y;
+}
+function subtract(x,y)
+{
+    return x-y;
+}
+function multiply(x,y)
+{
+    return x*y;
+}
+function divide(x,y)
+{
+    return x/y;
+}
