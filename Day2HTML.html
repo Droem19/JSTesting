@@ -8,7 +8,27 @@
 <body>
 <h1 align="center">Javascript Practice Day 2</h1>
 <script>
-    //function()
+    document.write("Grading Scale: <br>" +
+        "0-5 = F <br>" +
+        "6-10 = E <br>" +
+        "11-15 = D <br>" +
+        "16-20 = C <br>" +
+        "21-25 = B <br>" +
+        "26-30 = A <br>");
+    document.write("When given a score of 20 the grade received is a: " + grade(20) + "<br>");
+
+    document.write("<br> String Examples: <br>" +
+        "a,e,i,o,u = A <br>" +
+        "b,c,d,f,g = B <br>" +
+        "h,j,k,l,m = C <br>" +
+        "n,p,q,r,s,t,v,w,x,y,z = D <br>");
+
+    document.write("When given a string of 'airplane' the letter returned is : " + getLetter("airplane") + "<br> <br>");
+
+    document.write("Using the Vowel and Consonants Function with the word 'Hello' returns: <br>");
+    vowelsAndConsonants("Hello");
+
+    document.write(" <br> Day 2 Completed");
 </script>
 </body>
 </html>
