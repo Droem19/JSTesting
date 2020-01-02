@@ -2,22 +2,26 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title><!DOCTYPE html>
-        <html lang="en">
-        <head>
-            <meta charset="UTF-8">
-            <title>Javascript Work</title>
-            <script src="Day4.js"></script>
-        </head>
+    <title>Javascript Work</title>
+    <script src="Day4.js"></script>
+</head>
 <body>
 <h1 align="center">Javascript Practice Day 4</h1>
 <script>
-    //function()
-</script>
-</body>
-</html></title>
-</head>
-<body>
+    document.write("If you give the rectangle function 4 length, and 5 width the following will be calculated: <br>");
+    var rect = Rectangle(4,5);
+    document.write("Length: " + rect.length + " <br>Width: " + rect.width + " <br>Perimeter: " + rect.perimeter + " <br>Area: " + rect.area + "<br>");
 
+    let arr = [{x: 3, y: 2}, {x: 2, y: 2}, {x: 1, y: 1}, {x: 1, y: 5}];
+    arrStr = JSON.stringify(arr, null, 4);
+    document.write("<br> Using the getCount function with the following array the number of objects with the same x & y value is: " + getCount(arr) + "<br>");
+    document.write("Array:" + arrStr + "<br><br>");
+
+    let poly = new Polygon([5,10,5,10]);
+    polyStr = JSON.stringify(poly, null, 4);
+    document.write("The perimeter of the given polygon: " + polyStr + " is: " + poly.perimeter() + "<br> <br>");
+
+    document.write("Day 4 Completed");
+</script>
 </body>
 </html>
