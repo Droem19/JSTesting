@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5107483d-ff4f-4ea6-88a7-2c75ebd163b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Day5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day5HTML.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day4.js" beforeDir="false" afterPath="$PROJECT_DIR$/Day4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day4HTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day4HTML.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -58,14 +58,14 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../JSTesting" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Day4HTML.html">
-    <configuration name="Day2HTML.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSPractice/Day2HTML.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.Day5HTML.html">
     <configuration name="Day3HTML.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSPractice/Day3HTML.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="Day4HTML.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSPractice/Day4HTML.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Day5HTML.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JSPractice/Day5HTML.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="Day3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Day3.js" working-dir="$PROJECT_DIR$">
@@ -76,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Day5HTML.html" />
         <item itemvalue="JavaScript Debug.Day4HTML.html" />
         <item itemvalue="Node.js.Day4.js" />
         <item itemvalue="JavaScript Debug.Day3HTML.html" />
         <item itemvalue="Node.js.Day3.js" />
-        <item itemvalue="JavaScript Debug.Day2HTML.html" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +107,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577735558577</updated>
       <workItem from="1577735568417" duration="7256000" />
-      <workItem from="1577801331880" duration="22459000" />
+      <workItem from="1577801331880" duration="24882000" />
     </task>
     <task id="LOCAL-00001" summary="1st Test Commit">
       <created>1577736475556</created>
@@ -179,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577816599400</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Day 4 Completion">
+      <created>1577981604316</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1577981604316</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,7 +214,8 @@
     <MESSAGE value="Day 1 Completion" />
     <MESSAGE value="Day 2 Completion" />
     <MESSAGE value="Day 3 Completion" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 3 Completion" />
+    <MESSAGE value="Day 4 Completion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 4 Completion" />
   </component>
   <component name="WindowStateProjectService">
     <state x="646" y="209" key="#Deployment" timestamp="1577736191431">
@@ -226,10 +234,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577739439875" />
-    <state x="535" y="147" width="1039" height="806" key="CommitChangelistDialog2" timestamp="1577816595111">
+    <state x="535" y="147" width="1039" height="806" key="CommitChangelistDialog2" timestamp="1577981601629">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="535" y="147" width="1039" height="806" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577816595111" />
+    <state x="535" y="147" width="1039" height="806" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577981601629" />
     <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1577737445471">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -302,10 +310,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="938" height="348" key="GridCell.Tab.3.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577743410443" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1577816602749">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1577981606799">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577816602749" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577981606799" />
     <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577737294635">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
